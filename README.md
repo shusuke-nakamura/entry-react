@@ -23,3 +23,6 @@
 
 ## 独自フック
 ### use〇〇〇のネーミングで関数を定義する。
+
+## Next.jsプロジェクト作成
+### [コマンド] npx create-next-app next_app
