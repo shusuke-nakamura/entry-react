@@ -26,3 +26,9 @@
 
 ## Next.jsプロジェクト作成
 ### [コマンド] npx create-next-app next_app
+
+## npm run dev エラー next: not found
+### [コマンド] npm upgrade / npm install
+
+## next.jsの実行
+### [コマンド] npm run dev
